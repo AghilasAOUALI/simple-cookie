@@ -2,6 +2,8 @@
 simple cookie serializer & parser for node.js
 
 [![NPM Version][npm-image]][npm-url]
+[![Dependency Status]
+[![Coverage Status]
 [![Build Status][travis-image]][travis-url]
 
 ##install
